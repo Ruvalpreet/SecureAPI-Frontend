@@ -1,0 +1,2 @@
+GET  'http://localhost:3333/fact'
+{"headers": {"Authorization": "Bearer c3edc7e9-d19d-4c46-b6a7-53f8a2050aad"}}
